@@ -34,7 +34,7 @@ const projects: Project[] = [
     ],
     image: '/images/hranalysiscoverpage.jpg',
     tags: ['Power BI', 'DAX', 'HR Analytics'],
-    link: 'https://github.com/chandana444s/Pizza-Sales-Analysis-Dashboard'
+    link: 'https://github.com/chandana444s/HR-Analytics-PowerBI'
   }
 ];
 
