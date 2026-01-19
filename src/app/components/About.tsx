@@ -43,8 +43,7 @@ export function About() {
 
           <motion.p variants={item}>
             I have built a solid foundation in Microsoft Excel, SQL, data
-            validation, and dashboard reporting, along with clear documentation
-            and stakeholder coordination.
+            validation, and dashboard reporting, along with clear documentation.
           </motion.p>
 
           <motion.p
@@ -62,7 +61,6 @@ export function About() {
               "Data validation and analysis using Excel and SQL",
               "KPI tracking through structured dashboards and reports",
               "Workflow, requirement, and process documentation",
-              "Operational support, testing, and data verification",
             ].map((point, i) => (
               <motion.li key={i} variants={item}>
                 {point}

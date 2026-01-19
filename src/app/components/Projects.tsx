@@ -26,7 +26,7 @@ const projects: Project[] = [
     link: 'https://github.com/chandana444s/Pizza-Sales-Analysis-Dashboard'
   },
   {
-    title: 'HR Analysis Dashboard',
+    title: 'HR Analytics Dashboard',
     descriptionPoints: [
       'Analyzed employee data to track key HR KPIs such as attrition rate, employee count, average age, and job satisfaction.',
       'Identified attrition trends across departments, job roles, age groups, and gender to highlight high-risk areas.',
