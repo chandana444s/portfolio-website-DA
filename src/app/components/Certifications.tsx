@@ -21,6 +21,12 @@ const certifications: Certification[] = [
     link: "https://oneroadmap.io/skills/da/certificate/CERT-77BC8621", 
   },
   {
+    title: "Deloitte Australia – Technology Job Simulation",
+    issuer: "Forage",
+    issued: "Jan 2026",
+    link: "https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_690a247387c4783a0b113fc1_1767248037019_completion_certificate.pdf",
+  },
+  {
     title: "Power BI Micro Course",
     issuer: "SkillCourse",
     issued: "Jan 2026",
